@@ -1,0 +1,10 @@
+@media only screen and (max-width: 425px) {
+    .iconSection {
+      display: none;
+    }
+  }
+@media only screen and (max-width: 425px) {
+    .menuSection {
+      display: none;
+    }
+  }
